@@ -1,0 +1,103 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1501421964596">
+  <folder name="css">
+    <file name="site_global.css" crc="427221168"/>
+    <file name="index.css" crc="3761334088" ref="index"/>
+    <file name="misc.css" crc="24373425" ref="misc"/>
+    <file name="about.css" crc="4165421029" ref="about"/>
+    <file name="phd-thesis.css" crc="536604379" ref="phd-thesis"/>
+    <file name="photography.css" crc="3983602915" ref="photography"/>
+    <file name="long-cv.css" crc="82627558" ref="long-cv"/>
+    <file name="projects.css" crc="194433696" ref="projects"/>
+    <file name="short-cv.css" crc="3787720505" ref="short-cv"/>
+    <file name="contact.css" crc="4141016536" ref="contact"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="about:index:projects:contact:phd-thesis:misc:photography:short-cv:long-cv"/>
+    <file name="museutils.js" crc="4216313831" ref="about:index:projects:contact:phd-thesis:misc:photography:short-cv:long-cv"/>
+    <file name="whatinput.js" crc="86476730" ref="about:index:projects:contact:phd-thesis:misc:photography:short-cv:long-cv"/>
+    <file name="museconfig.js" crc="4177022356" ref="about:index:projects:contact:phd-thesis:misc:photography:short-cv:long-cv"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="about:index:projects:contact:phd-thesis:misc:photography:short-cv:long-cv"/>
+    <file name="jquery.watch.js" crc="460461809" ref="about:index:projects:contact:phd-thesis:misc:photography:short-cv:long-cv"/>
+    <file name="html5shiv.js" crc="4241844378" ref="about:index:projects:contact:phd-thesis:misc:photography:short-cv:long-cv"/>
+    <file name="require.js" crc="3951022091" ref="about:index:projects:contact:phd-thesis:misc:photography:short-cv:long-cv"/>
+  </folder>
+  <folder name="images">
+    <file name="img_6875.jpg" crc="322635637" seo="true" ref="about:index:projects:contact:phd-thesis:misc:photography:short-cv:long-cv">
+      <caption webpage="about" alt=""/>
+      <caption webpage="misc" alt=""/>
+      <caption webpage="long-cv" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="phd-thesis" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="short-cv" alt=""/>
+    </file>
+    <file name="u493.png" crc="229000022" ref="about"/>
+    <file name="u493-r.png" crc="406405558" ref="about"/>
+    <file name="u495.png" crc="404509295" ref="about"/>
+    <file name="u495-r.png" crc="3973276399" ref="about"/>
+    <file name="u497.png" crc="313259456" ref="about"/>
+    <file name="u497-r.png" crc="3921978232" ref="about"/>
+    <file name="ava-circle.png" crc="4242647740" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u605.png" crc="229000022" ref="index"/>
+    <file name="u605-r.png" crc="406405558" ref="index"/>
+    <file name="u598.png" crc="404509295" ref="index"/>
+    <file name="u598-r.png" crc="3973276399" ref="index"/>
+    <file name="u600.png" crc="313259456" ref="index"/>
+    <file name="u600-r.png" crc="3921978232" ref="index"/>
+    <file name="u758.png" crc="229000022" ref="projects"/>
+    <file name="u758-r.png" crc="406405558" ref="projects"/>
+    <file name="u751.png" crc="404509295" ref="projects"/>
+    <file name="u751-r.png" crc="3973276399" ref="projects"/>
+    <file name="u753.png" crc="313259456" ref="projects"/>
+    <file name="u753-r.png" crc="3921978232" ref="projects"/>
+    <file name="u961.png" crc="229000022" ref="contact"/>
+    <file name="u961-r.png" crc="406405558" ref="contact"/>
+    <file name="u965.png" crc="404509295" ref="contact"/>
+    <file name="u965-r.png" crc="3973276399" ref="contact"/>
+    <file name="u970.png" crc="313259456" ref="contact"/>
+    <file name="u970-r.png" crc="3921978232" ref="contact"/>
+    <file name="u1245.png" crc="229000022" ref="phd-thesis"/>
+    <file name="u1245-r.png" crc="406405558" ref="phd-thesis"/>
+    <file name="u1249.png" crc="404509295" ref="phd-thesis"/>
+    <file name="u1249-r.png" crc="3973276399" ref="phd-thesis"/>
+    <file name="u1254.png" crc="313259456" ref="phd-thesis"/>
+    <file name="u1254-r.png" crc="3921978232" ref="phd-thesis"/>
+    <file name="u1572.png" crc="229000022" ref="misc"/>
+    <file name="u1572-r.png" crc="406405558" ref="misc"/>
+    <file name="u1609.png" crc="404509295" ref="misc"/>
+    <file name="u1609-r.png" crc="3973276399" ref="misc"/>
+    <file name="u1612.png" crc="313259456" ref="misc"/>
+    <file name="u1612-r.png" crc="3921978232" ref="misc"/>
+    <file name="u1691.png" crc="229000022" ref="photography"/>
+    <file name="u1691-r.png" crc="406405558" ref="photography"/>
+    <file name="u1687.png" crc="404509295" ref="photography"/>
+    <file name="u1687-r.png" crc="3973276399" ref="photography"/>
+    <file name="u1689.png" crc="313259456" ref="photography"/>
+    <file name="u1689-r.png" crc="3921978232" ref="photography"/>
+    <file name="u1748.png" crc="229000022" ref="short-cv"/>
+    <file name="u1748-r.png" crc="406405558" ref="short-cv"/>
+    <file name="u1741.png" crc="404509295" ref="short-cv"/>
+    <file name="u1741-r.png" crc="3973276399" ref="short-cv"/>
+    <file name="u1743.png" crc="313259456" ref="short-cv"/>
+    <file name="u1743-r.png" crc="3921978232" ref="short-cv"/>
+    <file name="u2256.png" crc="229000022" ref="long-cv"/>
+    <file name="u2256-r.png" crc="406405558" ref="long-cv"/>
+    <file name="u2249.png" crc="404509295" ref="long-cv"/>
+    <file name="u2249-r.png" crc="3973276399" ref="long-cv"/>
+    <file name="u2217.png" crc="313259456" ref="long-cv"/>
+    <file name="u2217-r.png" crc="3921978232" ref="long-cv"/>
+  </folder>
+  <file name="about.html" crc="142281397" seo="true" mt="1501421272779" redirect="true"/>
+  <file name="index.html" crc="3919412093" seo="true" mt="1501421892762" redirect="true"/>
+  <file name="projects.html" crc="3775815106" seo="true" mt="1501421272874" redirect="true"/>
+  <file name="contact.html" crc="3913499208" seo="true" mt="1501421272910" redirect="true"/>
+  <file name="phd-thesis.html" crc="3980976452" seo="true" mt="1501421272929" redirect="true"/>
+  <file name="misc.html" crc="382092438" seo="true" mt="1501421272943" redirect="true"/>
+  <file name="photography.html" crc="4191040847" seo="true" mt="1501421272958" redirect="true"/>
+  <file name="short-cv.html" crc="4029091595" seo="true" mt="1501421358306" redirect="true"/>
+  <file name="long-cv.html" crc="3974090326" seo="true" mt="1501421391426" redirect="true"/>
+</manifest>
